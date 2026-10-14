@@ -55,8 +55,8 @@ pytest --cov=app
 ## Pull the published image
 
 ```bash
-docker pull ghcr.io/YOUR-USERNAME/devops-portfolio-app:latest
-docker run -p 5000:5000 ghcr.io/YOUR-USERNAME/devops-portfolio-app:latest
+docker pull ghcr.io/12ahmedab-ui/devops-portfolio-app:latest
+docker run -p 5000:5000 ghcr.io/12ahmedab-ui/devops-portfolio-app:latest
 ```
 
 ## Project structure
