@@ -1,6 +1,6 @@
 # DevOps Portfolio App
 
-![CI/CD Pipeline](https://github.com/YOUR-USERNAME/devops-portfolio-app/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD Pipeline](https://github.com/12ahmedab-ui/devops-portfolio-app/actions/workflows/ci-cd.yml/badge.svg)
 
 A small Python (Flask) web app wrapped in a full **CI/CD pipeline** with GitHub Actions. Every push is automatically linted, tested, containerised, security-scanned and published as a Docker image.
 
