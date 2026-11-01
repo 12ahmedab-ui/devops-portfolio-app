@@ -74,6 +74,7 @@ jobs:
           severity: CRITICAL,HIGH
           ignore-unfixed: true
           exit-code: "1"
+          limit-severities-for-sarif: true
 
       - name: Upload scan results to GitHub Security tab
         if: always()
